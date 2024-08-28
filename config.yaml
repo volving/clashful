@@ -1,0 +1,15 @@
+#!MANAGED-CONFIG http://www.ccsub.online/link/AAAAAAAAAA?clash=1
+
+#---------------------------------------------------#
+## 上次更新于：2024-08-28 16:01:03
+#---------------------------------------------------#
+
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+mode: rule
+log-level: silent
+external-controller: '0.0.0.0:9090'
+secret: ''
+proxies:
